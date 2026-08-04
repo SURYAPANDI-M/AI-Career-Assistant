@@ -1,0 +1,6 @@
+{
+    "model": "LinearSVC",
+    "best_parameter": "{'C': 0.5}",
+    "accuracy": 0.8823529411764706,
+    "features": 50000
+}

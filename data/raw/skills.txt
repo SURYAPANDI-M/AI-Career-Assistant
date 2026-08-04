@@ -1,0 +1,41 @@
+python
+java
+c++
+c#
+sql
+mysql
+postgresql
+mongodb
+oracle
+machine learning
+deep learning
+artificial intelligence
+tensorflow
+pytorch
+keras
+scikit learn
+sklearn
+pandas
+numpy
+matplotlib
+statistics
+aws
+azure
+gcp
+docker
+kubernetes
+git
+github
+linux
+django
+flask
+fastapi
+react
+javascript
+html
+css
+node
+spark
+hadoop
+nlp
+computer vision
